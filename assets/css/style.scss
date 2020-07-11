@@ -1,0 +1,25 @@
+---
+---
+
+@import 'jekyll-theme-slate';
+
+#forkme_banner {
+  display: none;
+}
+
+// .inner {
+//   position: relative;
+//   max-width: 640px;
+//   padding: 20px 10px;
+//   margin: 0 auto;
+// }
+
+a {
+  color: black;
+  text-decoration: underline;
+
+  &:hover {
+    color: #0F79D0;
+  }
+}
+
