@@ -8,7 +8,7 @@ Dynamixelは韓国ROBOTIS社([HP](http://en.robotis.com/))が開発するサー�
 
 ## 選定
 
-興味があるのがトルクと速度だけであれば，[この図](http://en.robotis.com/data/item/sharedfile/210105101957_fgFlDRHu_d2ddd0f3d773e876e81161242255eded8245d65a.png)を見れば良い．
+興味があるのがトルクと速度だけであれば，[この図](https://e-shop.robotis.co.jp/uploads/X540_page/dsp_x540_03.png)を見れば良い．
 
 公式ページにスペック等の書かれた[一覧表](http://en.robotis.com/service/selection_guide.php)がある．
 質量等にも関心があれば，これを見るのが良さそうである．
