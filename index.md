@@ -16,7 +16,7 @@ layout: default
 
 クリックするとカテゴリ別の目次に飛びます．
 
-- [技術開発メモ](c_tech/index)
+- [技術開発メモ](tech/index)
 
 ## Contact
 Yuki Onishi, a postgraduate student
