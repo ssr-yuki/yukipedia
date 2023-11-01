@@ -17,8 +17,11 @@ layout: default
 クリックするとカテゴリ別の目次に飛びます．
 
 - [技術開発メモ](tech/index)
+- [人型ロボット](humanoids/index)
 
 ## Contact
-Yuki Onishi, a postgraduate student
+
+Yuki Onishi, a roboticist
+
 - Mail: yuki.st16 (at) gmail.com
 - Github: [ssr-yuki](https://github.com/ssr-yuki)
